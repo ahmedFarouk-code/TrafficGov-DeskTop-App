@@ -1,0 +1,26 @@
+D:\abo hdhod\TrafficGov\bin\Debug\TrafficGov.exe.config
+D:\abo hdhod\TrafficGov\bin\Debug\TrafficGov.exe
+D:\abo hdhod\TrafficGov\bin\Debug\TrafficGov.pdb
+D:\abo hdhod\TrafficGov\obj\Debug\TrafficGov.csproj.AssemblyReference.cache
+D:\abo hdhod\TrafficGov\obj\Debug\TrafficGov.frmMain.resources
+D:\abo hdhod\TrafficGov\obj\Debug\TrafficGov.Properties.Resources.resources
+D:\abo hdhod\TrafficGov\obj\Debug\TrafficGov.csproj.GenerateResource.cache
+D:\abo hdhod\TrafficGov\obj\Debug\TrafficGov.csproj.CoreCompileInputs.cache
+D:\abo hdhod\TrafficGov\obj\Debug\TrafficGov.exe
+D:\abo hdhod\TrafficGov\obj\Debug\TrafficGov.pdb
+D:\abo hdhod\TrafficGov\bin\Debug\TrafficGov_Buisness.dll
+D:\abo hdhod\TrafficGov\bin\Debug\TrafficGov_Buisness.pdb
+D:\abo hdhod\TrafficGov\obj\Debug\TrafficGov.csproj.Up2Date
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\bin\Debug\TrafficGov.exe.config
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\bin\Debug\TrafficGov.exe
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\bin\Debug\TrafficGov.pdb
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\bin\Debug\TrafficGov_Buisness.dll
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\bin\Debug\TrafficGov_Buisness.pdb
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.csproj.AssemblyReference.cache
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.frmMain.resources
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.Properties.Resources.resources
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.csproj.GenerateResource.cache
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.csproj.CoreCompileInputs.cache
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.csproj.Up2Date
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.exe
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.pdb

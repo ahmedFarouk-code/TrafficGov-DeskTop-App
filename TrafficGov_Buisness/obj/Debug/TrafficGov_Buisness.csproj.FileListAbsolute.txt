@@ -1,0 +1,18 @@
+D:\abo hdhod\TrafficGov_Buisness\bin\Debug\TrafficGov_Buisness.dll
+D:\abo hdhod\TrafficGov_Buisness\bin\Debug\TrafficGov_Buisness.pdb
+D:\abo hdhod\TrafficGov_Buisness\bin\Debug\TrafficGov_DataAccess.dll
+D:\abo hdhod\TrafficGov_Buisness\bin\Debug\TrafficGov_DataAccess.pdb
+D:\abo hdhod\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.csproj.AssemblyReference.cache
+D:\abo hdhod\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.csproj.CoreCompileInputs.cache
+D:\abo hdhod\TrafficGov_Buisness\obj\Debug\TrafficG.7101AB83.Up2Date
+D:\abo hdhod\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.dll
+D:\abo hdhod\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.pdb
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\bin\Debug\TrafficGov_Buisness.dll
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\bin\Debug\TrafficGov_Buisness.pdb
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\bin\Debug\TrafficGov_DataAccess.dll
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\bin\Debug\TrafficGov_DataAccess.pdb
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.csproj.AssemblyReference.cache
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.csproj.CoreCompileInputs.cache
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\obj\Debug\TrafficG.7101AB83.Up2Date
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.dll
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.pdb

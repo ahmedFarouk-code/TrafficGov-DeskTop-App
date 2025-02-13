@@ -1,0 +1,12 @@
+D:\abo hdhod\TrafficGov_DataAccess\bin\Debug\TrafficGov_DataAccess.dll
+D:\abo hdhod\TrafficGov_DataAccess\bin\Debug\TrafficGov_DataAccess.pdb
+D:\abo hdhod\TrafficGov_DataAccess\obj\Debug\TrafficGov_DataAccess.csproj.AssemblyReference.cache
+D:\abo hdhod\TrafficGov_DataAccess\obj\Debug\TrafficGov_DataAccess.csproj.CoreCompileInputs.cache
+D:\abo hdhod\TrafficGov_DataAccess\obj\Debug\TrafficGov_DataAccess.dll
+D:\abo hdhod\TrafficGov_DataAccess\obj\Debug\TrafficGov_DataAccess.pdb
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_DataAccess\bin\Debug\TrafficGov_DataAccess.dll
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_DataAccess\bin\Debug\TrafficGov_DataAccess.pdb
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_DataAccess\obj\Debug\TrafficGov_DataAccess.csproj.AssemblyReference.cache
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_DataAccess\obj\Debug\TrafficGov_DataAccess.csproj.CoreCompileInputs.cache
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_DataAccess\obj\Debug\TrafficGov_DataAccess.dll
+D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_DataAccess\obj\Debug\TrafficGov_DataAccess.pdb
