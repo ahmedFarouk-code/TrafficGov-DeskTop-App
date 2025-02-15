@@ -16,3 +16,12 @@ D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\obj\Debug\TrafficGov_Bui
 D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\obj\Debug\TrafficG.7101AB83.Up2Date
 D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.dll
 D:\abo hdhod\TrafficGov DeskTop App\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.pdb
+D:\TrafficGov-DeskTop-App\TrafficGov_Buisness\bin\Debug\TrafficGov_Buisness.dll
+D:\TrafficGov-DeskTop-App\TrafficGov_Buisness\bin\Debug\TrafficGov_Buisness.pdb
+D:\TrafficGov-DeskTop-App\TrafficGov_Buisness\bin\Debug\TrafficGov_DataAccess.dll
+D:\TrafficGov-DeskTop-App\TrafficGov_Buisness\bin\Debug\TrafficGov_DataAccess.pdb
+D:\TrafficGov-DeskTop-App\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.csproj.AssemblyReference.cache
+D:\TrafficGov-DeskTop-App\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.csproj.CoreCompileInputs.cache
+D:\TrafficGov-DeskTop-App\TrafficGov_Buisness\obj\Debug\TrafficG.7101AB83.Up2Date
+D:\TrafficGov-DeskTop-App\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.dll
+D:\TrafficGov-DeskTop-App\TrafficGov_Buisness\obj\Debug\TrafficGov_Buisness.pdb

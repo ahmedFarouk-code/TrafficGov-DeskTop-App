@@ -24,3 +24,16 @@ D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.csproj.CoreC
 D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.csproj.Up2Date
 D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.exe
 D:\abo hdhod\TrafficGov DeskTop App\TrafficGov\obj\Debug\TrafficGov.pdb
+D:\TrafficGov-DeskTop-App\TrafficGov\bin\Debug\TrafficGov.exe.config
+D:\TrafficGov-DeskTop-App\TrafficGov\bin\Debug\TrafficGov.exe
+D:\TrafficGov-DeskTop-App\TrafficGov\bin\Debug\TrafficGov.pdb
+D:\TrafficGov-DeskTop-App\TrafficGov\bin\Debug\TrafficGov_Buisness.dll
+D:\TrafficGov-DeskTop-App\TrafficGov\bin\Debug\TrafficGov_Buisness.pdb
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.csproj.AssemblyReference.cache
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.frmMain.resources
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.Properties.Resources.resources
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.csproj.GenerateResource.cache
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.csproj.CoreCompileInputs.cache
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.csproj.Up2Date
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.exe
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.pdb
