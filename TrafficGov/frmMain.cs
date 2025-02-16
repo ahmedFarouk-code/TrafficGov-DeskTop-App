@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TrafficGov.People;
 
 namespace TrafficGov
 {
@@ -15,6 +16,12 @@ namespace TrafficGov
         public frmMain()
         {
             InitializeComponent();
+        }
+
+        private void peopleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frm = new frmListPeople();
+            frm.ShowDialog();
         }
     }
 }

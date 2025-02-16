@@ -242,6 +242,7 @@
             this.peopleToolStripMenuItem.Name = "peopleToolStripMenuItem";
             this.peopleToolStripMenuItem.Size = new System.Drawing.Size(126, 68);
             this.peopleToolStripMenuItem.Text = "People";
+            this.peopleToolStripMenuItem.Click += new System.EventHandler(this.peopleToolStripMenuItem_Click);
             // 
             // driversToolStripMenuItem
             // 
@@ -280,7 +281,7 @@
             this.currentUserInfoToolStripMenuItem.Image = global::TrafficGov.Properties.Resources.PersonDetails_32;
             this.currentUserInfoToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.currentUserInfoToolStripMenuItem.Name = "currentUserInfoToolStripMenuItem";
-            this.currentUserInfoToolStripMenuItem.Size = new System.Drawing.Size(196, 38);
+            this.currentUserInfoToolStripMenuItem.Size = new System.Drawing.Size(195, 38);
             this.currentUserInfoToolStripMenuItem.Text = "&Current User Info";
             // 
             // changePasswordToolStripMenuItem
@@ -289,7 +290,7 @@
             this.changePasswordToolStripMenuItem.Image = global::TrafficGov.Properties.Resources.Password_32;
             this.changePasswordToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.changePasswordToolStripMenuItem.Name = "changePasswordToolStripMenuItem";
-            this.changePasswordToolStripMenuItem.Size = new System.Drawing.Size(196, 38);
+            this.changePasswordToolStripMenuItem.Size = new System.Drawing.Size(195, 38);
             this.changePasswordToolStripMenuItem.Text = "Change Password";
             // 
             // signOutToolStripMenuItem
@@ -298,7 +299,7 @@
             this.signOutToolStripMenuItem.Image = global::TrafficGov.Properties.Resources.sign_out_32__2;
             this.signOutToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.signOutToolStripMenuItem.Name = "signOutToolStripMenuItem";
-            this.signOutToolStripMenuItem.Size = new System.Drawing.Size(196, 38);
+            this.signOutToolStripMenuItem.Size = new System.Drawing.Size(195, 38);
             this.signOutToolStripMenuItem.Text = "Sign &Out";
             // 
             // pictureBox1

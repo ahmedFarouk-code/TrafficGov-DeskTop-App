@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace TrafficGov
 {
-    public class util
+    public class clsUtil
     {
         public static string GenerateGUID()
         {
@@ -62,7 +62,7 @@ namespace TrafficGov
             // project images foldr after renaming it
             // with GUID with the same extention, then it will update the sourceFileName with the new name.
 
-            string DestinationFolder = @"C:\DVLD-People-Images\";
+            string DestinationFolder = @"C:\TrafficGov-People-Images\";
             if (!CreateFolderIfDoesNotExist(DestinationFolder))
             {
                 return false;

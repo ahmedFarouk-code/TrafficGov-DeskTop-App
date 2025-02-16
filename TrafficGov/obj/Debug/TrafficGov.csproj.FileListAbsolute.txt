@@ -37,3 +37,11 @@ D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.csproj.CoreCompileInpu
 D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.csproj.Up2Date
 D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.exe
 D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.pdb
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.frmAddUpdatePerson.resources
+D:\TrafficGov-DeskTop-App\TrafficGov\bin\Debug\TrafficGov_DataAccess.dll
+D:\TrafficGov-DeskTop-App\TrafficGov\bin\Debug\TrafficGov_DataAccess.pdb
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.frmShowPersonInfo.resources
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.ctrlPersonCard.resources
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.ctrlPersonCardWithFilter.resources
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.People.frmFindPerson.resources
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.People.frmListPeople.resources
