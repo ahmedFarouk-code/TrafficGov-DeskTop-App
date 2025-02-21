@@ -45,3 +45,6 @@ D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.ctrlPersonCard.resourc
 D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.ctrlPersonCardWithFilter.resources
 D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.People.frmFindPerson.resources
 D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.People.frmListPeople.resources
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.frmUserInfo.resources
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.ctrlUserCard.resources
+D:\TrafficGov-DeskTop-App\TrafficGov\obj\Debug\TrafficGov.frmAddUpdateUser.resources

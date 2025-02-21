@@ -1,11 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\TrafficGov-DeskTop-App\\TrafficGov\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{75E43BA1-2C4C-48CD-955E-BD2DE9C6DCBB}|..\\TrafficGov_Buisness\\TrafficGov_Buisness.csproj|d:\\trafficgov-desktop-app\\trafficgov_buisness\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -13,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clsUser.cs",
-              "DocumentMoniker": "D:\\TrafficGov-DeskTop-App\\TrafficGov_Buisness\\clsUser.cs",
-              "RelativeDocumentMoniker": "..\\TrafficGov_Buisness\\clsUser.cs",
-              "ToolTip": "D:\\TrafficGov-DeskTop-App\\TrafficGov_Buisness\\clsUser.cs",
-              "RelativeToolTip": "..\\TrafficGov_Buisness\\clsUser.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAA1wCgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:37:29.205Z",
-              "EditorCaption": ""
             }
           ]
         }
